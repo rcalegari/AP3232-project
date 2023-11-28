@@ -1,0 +1,5 @@
+Commands to push local repo to Git repo:
+* git init
+* git add .
+* git commit -m "$COMMIT MESSAGE$"
+* git push -u -f origin main
